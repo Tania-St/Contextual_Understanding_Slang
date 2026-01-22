@@ -21,7 +21,7 @@ project-root/
 ├── paper/
 │   └── preprint.pdf              # препринт научной статьи
 └── README.md                     # этот файл
-
+```
 
 ---
 
@@ -58,5 +58,6 @@ project-root/
 ### Python
 
 - Версия 3.9+
+
 
 
